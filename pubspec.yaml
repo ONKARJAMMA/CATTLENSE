@@ -1,0 +1,17 @@
+name: cattlense_demo
+description: Demo UI for cattle & buffalo breed classification with mock inference
+publish_to: "none"
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  image_picker: ^1.1.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
