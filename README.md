@@ -1,8 +1,5 @@
 Cattlense – Cattle & Buffalo Management System
 Project Overview
-<img width="498" height="552" alt="image" src="https://github.com/user-attachments/assets/c88d757c-601a-469d-9daa-44dfa4d6d4ad" />
-
-<img width="250" height="276" alt="image" src="https://github.com/user-attachments/assets/729a9c5b-1586-4102-9ec9-6867da642099" />
 
 Cattlense is an AI-powered cross-platform application designed to assist farmers and livestock owners in identifying cattle and buffalo breeds, monitoring health, and improving productivity. It leverages image recognition and machine learning techniques to provide accurate breed identification and early disease detection guidance. The system aims to streamline livestock management, especially in rural areas with limited resources.
 
@@ -29,7 +26,6 @@ Provides data-driven insights to enhance farm management.
 Saves time and resources by automating livestock tracking.
 
 Contributes to modernizing agricultural practices using technology.
-<img width="1436" height="990" alt="image" src="https://github.com/user-attachments/assets/9f269309-b55b-4f6a-a388-f327da6a158d" />
 
 Features
 
@@ -108,6 +104,12 @@ Enhances farm productivity with AI-driven insights.
 Supports remote and rural areas with offline functionality.
 
 Provides cross-platform accessibility for wide user adoption.
+<img width="1436" height="990" alt="image" src="https://github.com/user-attachments/assets/9f269309-b55b-4f6a-a388-f327da6a158d" />
+
+
+<img width="498" height="552" alt="image" src="https://github.com/user-attachments/assets/c88d757c-601a-469d-9daa-44dfa4d6d4ad" />
+
+<img width="250" height="276" alt="image" src="https://github.com/user-attachments/assets/729a9c5b-1586-4102-9ec9-6867da642099" />
 <img width="1181" height="562" alt="image" src="https://github.com/user-attachments/assets/8210164f-f0ff-4e5d-b26c-fdac13994372" />
 
 
